@@ -8,10 +8,10 @@ export default function LoadingMeme() {
           🤪
         </div>
         <div className="text-2xl font-bold text-white mb-2">
-          正在加载沙雕新闻...
+          永失我峰...
         </div>
         <div className="text-lg text-yellow-300 mb-4">
-          请稍等，正在从宇宙尽头获取最新笑料
+          赛博峰永存
         </div>
         <div className="w-64 h-4 bg-gray-300 rounded-full overflow-hidden mx-auto">
           <div className="h-full bg-gradient-to-r from-purple-500 via-pink-500 to-red-500 animate-pulse" 

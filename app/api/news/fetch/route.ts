@@ -13,7 +13,7 @@ if (!API_KEY) {
 }
 
 // 将百度热榜数据转换为MemeNewsItem格式
-function transformBaiduNewsToMemeNews(baiduNews: any[], index: number): any {
+function transformBaiduNewsToMemeNews(baiduNews: any, index: number): any {
   const categories = ['科技', '金融', '政治', '本质'];
   const emojis = ['😵‍💫', '😺', '🤖', '🐛', '🔒', '💡', '🎯', '🔥'];
   const authors = [

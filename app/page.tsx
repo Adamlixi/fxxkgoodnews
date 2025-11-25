@@ -6,25 +6,51 @@ import MemeNewsCard from './components/MemeNewsCard';
 import LoadingMeme from './components/LoadingMeme';
 import memeNews, { MemeNewsItem } from './data/memeNews';
 
-const categories = ['全部', '科技', '金融', '政治', '本质'];
-
 export default function MemeNewsPage() {
   const [news, setNews] = useState<MemeNewsItem[]>([]);
   const [loading, setLoading] = useState(true);
-  const [selectedCategory, setSelectedCategory] = useState('全部');
 
   useEffect(() => {
-    const timer = setTimeout(() => {
-      setNews(memeNews);
-      setLoading(false);
-    }, 1200);
+    // 从API加载News.json中的数据
+    const loadNews = async () => {
+      try {
+        // 先尝试从/api/news/load读取News.json
+        const response = await fetch('/api/news/load', {
+          cache: 'no-store'
+        });
+        
+        if (response.ok) {
+          const result = await response.json();
+          console.log('API返回结果:', result);
+          
+          if (result.success && result.data && Array.isArray(result.data) && result.data.length > 0) {
+            console.log(`成功加载 ${result.data.length} 条新闻`);
+            setNews(result.data);
+            setLoading(false);
+            return;
+          } else {
+            console.warn('News.json数据为空，使用默认数据');
+          }
+        } else {
+          const errorText = await response.text();
+          console.error('API请求失败:', response.status, errorText);
+        }
+        
+        // 如果News.json为空或不存在，使用默认数据
+        console.log('使用默认模拟数据');
+        setNews(memeNews);
+        setLoading(false);
+      } catch (error: any) {
+        console.error('加载新闻失败:', error);
+        console.error('错误详情:', error.message, error.stack);
+        // 出错时使用默认数据
+        setNews(memeNews);
+        setLoading(false);
+      }
+    };
 
-    return () => clearTimeout(timer);
+    loadNews();
   }, []);
-
-  const filteredNews = selectedCategory === '全部'
-    ? news
-    : news.filter(item => item.category === selectedCategory);
 
   const handleLike = (id: number) => {
     setNews(prevNews =>
@@ -69,7 +95,7 @@ export default function MemeNewsPage() {
         </div>
       </div>
 
-      <header className="text-center mb-20">
+      <header className="text-center mb-40">
         <h1 className="text-8xl font-black mb-6 rainbow-text animate-bounce tracking-tight">
           🤪 好事网 🤪
         </h1>
@@ -79,24 +105,24 @@ export default function MemeNewsPage() {
         <div className="text-lg text-yellow-300 font-bold">
           ⚠️ 警告：都是好事 ⚠️
         </div>
+        <div className="text-lg text-yellow-300 font-bold">
+          ⚠️ 警告：AI 生成评论 ⚠️
+        </div>
+        <div className="text-lg text-yellow-300 font-bold">
+          ⚠️ 警告：AI 生成评论 ⚠️
+        </div>
+        <div className="text-lg text-yellow-300 font-bold">
+          ⚠️ 警告：AI 生成评论 ⚠️
+        </div>
+        <div className="text-lg text-yellow-300 font-bold">
+          ⚠️ 警告：AI 生成评论 ⚠️
+        </div>
       </header>
 
-      <div className="flex flex-wrap justify-center gap-8 mb-8 relative z-10">
-        {categories.map(category => (
-          <button
-            key={category}
-            onClick={() => setSelectedCategory(category)}
-            className={`meme-button ${selectedCategory === category ? 'shake' : ''}`}
-          >
-            {category}
-          </button>
-        ))}
-      </div>
-
-      <div className="grid gap-16 max-w-[1600px] mx-auto"
+      <div className="grid gap-16 max-w-[1600px] mx-auto mt-16"
         style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))' }}
       >
-        {filteredNews.map(item => (
+        {news.map(item => (
           <MemeNewsCard
             key={item.id}
             news={item}

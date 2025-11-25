@@ -68,7 +68,6 @@ export default function MemeNewsCard({ news, onLike, href }: MemeNewsCardProps) 
 
         <div className="space-y-2">
           <h3 className="text-xl font-bold text-gray-900">{news.title}</h3>
-          <p className="text-sm text-gray-700 font-semibold">{news.subtitle}</p>
           <p className="text-xs text-gray-500 leading-relaxed">{news.snippet}</p>
         </div>
 

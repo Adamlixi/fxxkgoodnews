@@ -1,163 +1,218 @@
 [
   {
-    "id": 1,
+    "id": 2,
     "title": "乌克兰已原则同意美提出的和平协议",
     "subtitle": "暂无描述",
     "snippet": "暂无描述",
     "detailParagraphs": [
       "暂无详细内容",
-      "热搜指数：7808462",
+      "热搜指数：7809775",
       "标签：热"
     ],
-    "category": "科技",
-    "likes": 7808,
+    "category": "金融",
+    "likes": 7809,
     "imageUrl": "https://fyb-1.cdn.bcebos.com/fyb/de6163834f53ca92c1273fff98ac9078.jpeg?x-bce-process=image/resize,m_fill,w_256,h_170",
     "isBreaking": true,
-    "publishedAt": "2025/11/26 00:38",
+    "publishedAt": "2025/11/26 02:00",
     "source": "百度热榜",
-    "tagline": "热 · 热搜指数 7808462",
+    "tagline": "热 · 热搜指数 7809775",
+    "link": "https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%B7%B2%E5%8E%9F%E5%88%99%E5%90%8C%E6%84%8F%E7%BE%8E%E6%8F%90%E5%87%BA%E7%9A%84%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news",
     "highlightComment": {
       "author": "弗洛伊德·峰",
-      "text": "原则同意？啊，这跟说'我原则上不反对你打我'有什么区别？TMLGB，都是好事儿啊",
-      "emoji": "😵‍💫"
+      "text": "乌克兰原则同意和平协议？这是好事。生产环境终于开始自检了，多听少说话，毕竟你不是宇宙中心，但美金是。",
+      "emoji": "😺"
     }
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "在日中国游客提前回国 机场仿佛春运",
     "subtitle": "近日，多名中国网友发布视频称，在日本多个机场，挤满了返回国内的中国人，有的原计划就是近期回国，但也有人选择提前结束在日行程安排，提前回国，大家拎着大...",
     "snippet": "近日，多名中国网友发布视频称，在日本多个机场，挤满了返回国内的中国人，有的原计划就是近期回国，但也有人选择提前结束在日行程安排，提前回国，大家拎着大...",
     "detailParagraphs": [
       "近日，多名中国网友发布视频称，在日本多个机场，挤满了返回国内的中国人，有的原计划就是近期回国，但也有人选择提前结束在日行程安排，提前回国，大家拎着大...",
-      "热搜指数：7713002",
+      "热搜指数：7713586",
       "标签：热"
     ],
-    "category": "金融",
+    "category": "政治",
     "likes": 7713,
     "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/9e2ced46a6789f1006b8a9e5d9cddf7e?x-bce-process=image/resize,m_fill,w_256,h_170",
     "isBreaking": true,
-    "publishedAt": "2025/11/26 00:38",
+    "publishedAt": "2025/11/26 02:00",
     "source": "百度热榜",
-    "tagline": "热 · 热搜指数 7713002",
+    "tagline": "热 · 热搜指数 7713586",
+    "link": "https://www.baidu.com/s?wd=%E5%9C%A8%E6%97%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%8F%90%E5%89%8D%E5%9B%9E%E5%9B%BD+%E6%9C%BA%E5%9C%BA%E4%BB%BF%E4%BD%9B%E6%98%A5%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news",
     "highlightComment": {
       "author": "弗洛伊德·峰",
-      "text": "提前回国？啊，选择大于努力，这波操作我给满分，都是好事儿啊",
-      "emoji": "😺"
+      "text": "在日游客提前回国挤成春运？这是好事。说明大家终于明白了选择大于努力，毕竟舒服是留给死人的，活着就得挤。",
+      "emoji": "🤖"
     }
   },
   {
-    "id": 5,
+    "id": 4,
+    "title": "神舟二十二号与空间站完成对接",
+    "subtitle": "据中国载人航天工程办公室消息，神舟二十二号飞船入轨后顺利完成状态设置，于北京时间2025年11月25日15时50分，成功对接于空间站天和核心舱前向端...",
+    "snippet": "据中国载人航天工程办公室消息，神舟二十二号飞船入轨后顺利完成状态设置，于北京时间2025年11月25日15时50分，成功对接于空间站天和核心舱前向端...",
+    "detailParagraphs": [
+      "据中国载人航天工程办公室消息，神舟二十二号飞船入轨后顺利完成状态设置，于北京时间2025年11月25日15时50分，成功对接于空间站天和核心舱前向端...",
+      "热搜指数：7618058",
+      "标签：普通"
+    ],
+    "category": "本质",
+    "likes": 7618,
+    "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/2c03a5434434e30c2fcff2ee716e8d00?x-bce-process=image/resize,m_fill,w_256,h_170",
+    "isBreaking": false,
+    "publishedAt": "2025/11/26 02:00",
+    "source": "百度热榜",
+    "tagline": "普通 · 热搜指数 7618058",
+    "link": "https://www.baidu.com/s?wd=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%8F%B7%E4%B8%8E%E7%A9%BA%E9%97%B4%E7%AB%99%E5%AE%8C%E6%88%90%E5%AF%B9%E6%8E%A5&sa=fyb_news&rsv_dl=fyb_news",
+    "highlightComment": {
+      "author": "弗洛伊德·峰",
+      "text": "神舟二十二号对接成功，这是好事。成功永远是属于少数人的，你大概率是多数人，只能在下面看着少数人对接，多听少说话。",
+      "emoji": "🐛"
+    }
+  },
+  {
+    "id": 6,
     "title": "京东首车遭退定",
     "subtitle": "11月25日，开启交付的京东首车埃安UT Super，同时也陷入退定风波。多位消费者表达了退定的理由：硬件方面，宣传图显示的天窗配置，实车并未配备且...",
     "snippet": "11月25日，开启交付的京东首车埃安UT Super，同时也陷入退定风波。多位消费者表达了退定的理由：硬件方面，宣传图显示的天窗配置，实车并未配备且...",
     "detailParagraphs": [
       "11月25日，开启交付的京东首车埃安UT Super，同时也陷入退定风波。多位消费者表达了退定的理由：硬件方面，宣传图显示的天窗配置，实车并未配备且...",
-      "热搜指数：7425932",
+      "热搜指数：7427121",
       "标签：普通"
     ],
-    "category": "科技",
-    "likes": 7425,
+    "category": "金融",
+    "likes": 7427,
     "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/3bfb52295a82c640f9dabf4f2dae0fd8?x-bce-process=image/resize,m_fill,w_256,h_170",
     "isBreaking": false,
-    "publishedAt": "2025/11/26 00:38",
+    "publishedAt": "2025/11/26 02:00",
     "source": "百度热榜",
-    "tagline": "普通 · 热搜指数 7425932",
+    "tagline": "普通 · 热搜指数 7427121",
+    "link": "https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E9%A6%96%E8%BD%A6%E9%81%AD%E9%80%80%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news",
     "highlightComment": {
       "author": "弗洛伊德·峰",
-      "text": "退定？啊，不要轻易相信来自陌生人的善意，包括车企的宣传图，都是好事儿啊",
-      "emoji": "🔒"
+      "text": "京东首车遭退定？这是好事。不要轻易相信来自陌生人的善意，包括宣传图。30元钱能买TMLGB人生经验，这车退了能省不少人生经验费。",
+      "emoji": "💡"
     }
   },
   {
-    "id": 10,
+    "id": 8,
     "title": "充电宝3C认证将全面失效",
     "subtitle": "工信部拟于2026年6月实施“史上最严”充电宝新国标，新国标在整机、线路板和电芯三大技术领域提出了数十项严苛改进，原有3C认证将全面失效，预计70%...",
     "snippet": "工信部拟于2026年6月实施“史上最严”充电宝新国标，新国标在整机、线路板和电芯三大技术领域提出了数十项严苛改进，原有3C认证将全面失效，预计70%...",
     "detailParagraphs": [
       "工信部拟于2026年6月实施“史上最严”充电宝新国标，新国标在整机、线路板和电芯三大技术领域提出了数十项严苛改进，原有3C认证将全面失效，预计70%...",
-      "热搜指数：6946417",
+      "热搜指数：7239126",
       "标签：热"
     ],
-    "category": "金融",
-    "likes": 6946,
+    "category": "本质",
+    "likes": 7239,
     "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/0ef1ae57a152eea34e69f81c47de3929?x-bce-process=image/resize,m_fill,w_256,h_170",
     "isBreaking": true,
-    "publishedAt": "2025/11/26 00:38",
+    "publishedAt": "2025/11/26 02:00",
     "source": "百度热榜",
-    "tagline": "热 · 热搜指数 6946417",
+    "tagline": "热 · 热搜指数 7239126",
+    "link": "https://www.baidu.com/s?wd=%E5%85%85%E7%94%B5%E5%AE%9D3C%E8%AE%A4%E8%AF%81%E5%B0%86%E5%85%A8%E9%9D%A2%E5%A4%B1%E6%95%88&sa=fyb_news&rsv_dl=fyb_news",
     "highlightComment": {
       "author": "弗洛伊德·峰",
-      "text": "3C认证失效？啊，选择大于努力，但这次选择权不在你手里，都是好事儿啊",
-      "emoji": "😺"
+      "text": "充电宝3C认证全面失效，这是好事。以前的认证都失效了，说明咱们的标准又升级了，舒服是留给死人的，活人就得不停换新充电宝。",
+      "emoji": "🔥"
+    }
+  },
+  {
+    "id": 9,
+    "title": "中国驻日本福冈总领馆紧急提醒",
+    "subtitle": "据中国地震台网正式测定，11月25日17时1分在日本九州岛发生5.3级地震，震源深度20公里，震中位于北纬33.15度，东经131.20度。中国驻福...",
+    "snippet": "据中国地震台网正式测定，11月25日17时1分在日本九州岛发生5.3级地震，震源深度20公里，震中位于北纬33.15度，东经131.20度。中国驻福...",
+    "detailParagraphs": [
+      "据中国地震台网正式测定，11月25日17时1分在日本九州岛发生5.3级地震，震源深度20公里，震中位于北纬33.15度，东经131.20度。中国驻福...",
+      "热搜指数：7137229",
+      "标签：普通"
+    ],
+    "category": "科技",
+    "likes": 7137,
+    "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/c40c06364b49a560710c74d5f71aee27?x-bce-process=image/resize,m_fill,w_256,h_170",
+    "isBreaking": false,
+    "publishedAt": "2025/11/26 02:00",
+    "source": "百度热榜",
+    "tagline": "普通 · 热搜指数 7137229",
+    "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%86%88%E6%80%BB%E9%A2%86%E9%A6%86%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news",
+    "highlightComment": {
+      "author": "弗洛伊德·峰",
+      "text": "驻日领馆紧急提醒地震，这是好事。多听少说话，不要轻易相信来自陌生人的善意，但领馆的提醒得信，毕竟下雨天适合吃火锅，地震天适合保命。",
+      "emoji": "😵‍💫"
     }
   },
   {
     "id": 11,
-    "title": "无人快递车“吵架”系谣言",
-    "subtitle": "近日，网传无人快递车“吵架”视频，经查证其声音均为AI后期合成，无人车运营规范严格，不会真实发生此类场景。",
-    "snippet": "近日，网传无人快递车“吵架”视频，经查证其声音均为AI后期合成，无人车运营规范严格，不会真实发生此类场景。",
+    "title": "女子掉入5米深冰河多亏穿了厚羽绒服",
+    "subtitle": "暂无描述",
+    "snippet": "暂无描述",
     "detailParagraphs": [
-      "近日，网传无人快递车“吵架”视频，经查证其声音均为AI后期合成，无人车运营规范严格，不会真实发生此类场景。",
-      "热搜指数：6855069",
+      "暂无详细内容",
+      "热搜指数：6949889",
       "标签：普通"
     ],
     "category": "政治",
-    "likes": 6855,
-    "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/2e43bfb4146a34d35bb7c578c905708e?x-bce-process=image/resize,m_fill,w_256,h_170",
+    "likes": 6949,
+    "imageUrl": "https://fyb-1.cdn.bcebos.com/fyb/de6163834f53ca92c1273fff98ac9078.jpeg?x-bce-process=image/resize,m_fill,w_256,h_170",
     "isBreaking": false,
-    "publishedAt": "2025/11/26 00:38",
+    "publishedAt": "2025/11/26 02:00",
     "source": "百度热榜",
-    "tagline": "普通 · 热搜指数 6855069",
+    "tagline": "普通 · 热搜指数 6949889",
+    "link": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8E%89%E5%85%A55%E7%B1%B3%E6%B7%B1%E5%86%B0%E6%B2%B3%E5%A4%9A%E4%BA%8F%E7%A9%BF%E4%BA%86%E5%8E%9A%E7%BE%BD%E7%BB%92%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news",
     "highlightComment": {
       "author": "弗洛伊德·峰",
-      "text": "AI合成吵架？啊，不要轻易相信来自陌生人的善意，包括AI的视频，都是好事儿啊",
+      "text": "掉进冰河多亏穿了厚羽绒服，这是好事。选择大于努力，这波属于是版本T0级别的理解，舒服是留给死人的，活着的人得穿厚点。",
       "emoji": "🤖"
     }
   },
   {
     "id": 12,
+    "title": "无人快递车“吵架”系谣言",
+    "subtitle": "近日，网传无人快递车“吵架”视频，经查证其声音均为AI后期合成，无人车运营规范严格，不会真实发生此类场景。",
+    "snippet": "近日，网传无人快递车“吵架”视频，经查证其声音均为AI后期合成，无人车运营规范严格，不会真实发生此类场景。",
+    "detailParagraphs": [
+      "近日，网传无人快递车“吵架”视频，经查证其声音均为AI后期合成，无人车运营规范严格，不会真实发生此类场景。",
+      "热搜指数：6853327",
+      "标签：普通"
+    ],
+    "category": "本质",
+    "likes": 6853,
+    "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/2e43bfb4146a34d35bb7c578c905708e?x-bce-process=image/resize,m_fill,w_256,h_170",
+    "isBreaking": false,
+    "publishedAt": "2025/11/26 02:00",
+    "source": "百度热榜",
+    "tagline": "普通 · 热搜指数 6853327",
+    "link": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E5%BF%AB%E9%80%92%E8%BD%A6%E2%80%9C%E5%90%B5%E6%9E%B6%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news",
+    "highlightComment": {
+      "author": "弗洛伊德·峰",
+      "text": "无人快递车吵架是谣言？这是好事。AI都开始辟谣了，说明技术大牛都惊呆了。不要轻易相信来自陌生人的善意，也不要轻易相信网上的视频，毕竟你不是宇宙中心。",
+      "emoji": "🐛"
+    }
+  },
+  {
+    "id": 13,
     "title": "英伟达跌超6% 较高点损失1万亿美元",
     "subtitle": "11月25日，英伟达跌幅扩大至6.3%，创9月17日以来新低，总市值跌至4.15万亿美元，较历史最高点跌去1万亿美元。",
     "snippet": "11月25日，英伟达跌幅扩大至6.3%，创9月17日以来新低，总市值跌至4.15万亿美元，较历史最高点跌去1万亿美元。",
     "detailParagraphs": [
       "11月25日，英伟达跌幅扩大至6.3%，创9月17日以来新低，总市值跌至4.15万亿美元，较历史最高点跌去1万亿美元。",
-      "热搜指数：6757434",
+      "热搜指数：6760225",
       "标签：新"
     ],
-    "category": "本质",
-    "likes": 6757,
+    "category": "科技",
+    "likes": 6760,
     "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/f584a3a8035d657457ed13f6d0248cb9?x-bce-process=image/resize,m_fill,w_256,h_170",
     "isBreaking": false,
-    "publishedAt": "2025/11/26 00:38",
+    "publishedAt": "2025/11/26 02:00",
     "source": "百度热榜",
-    "tagline": "新 · 热搜指数 6757434",
+    "tagline": "新 · 热搜指数 6760225",
+    "link": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%856%25+%E8%BE%83%E9%AB%98%E7%82%B9%E6%8D%9F%E5%A4%B11%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
     "highlightComment": {
       "author": "弗洛伊德·峰",
-      "text": "损失1万亿美元？啊，成功永远是属于少数人的，你大概率是多数人，但这次英伟达成了多数人，都是好事儿啊",
-      "emoji": "🐛"
-    }
-  },
-  {
-    "id": 14,
-    "title": "萧山机场回应健全印度人坐轮椅",
-    "subtitle": "近日，浙江杭州多位网友发帖称在杭州萧山国际机场，遇健全印度人使用轮椅，这一行为被指浪费公共资源。萧山机场回应称：并非机场轮椅。",
-    "snippet": "近日，浙江杭州多位网友发帖称在杭州萧山国际机场，遇健全印度人使用轮椅，这一行为被指浪费公共资源。萧山机场回应称：并非机场轮椅。",
-    "detailParagraphs": [
-      "近日，浙江杭州多位网友发帖称在杭州萧山国际机场，遇健全印度人使用轮椅，这一行为被指浪费公共资源。萧山机场回应称：并非机场轮椅。",
-      "热搜指数：6571730",
-      "标签：普通"
-    ],
-    "category": "金融",
-    "likes": 6571,
-    "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/479714e53e5e0113dd9506688a9b1089?x-bce-process=image/resize,m_fill,w_256,h_170",
-    "isBreaking": false,
-    "publishedAt": "2025/11/26 00:38",
-    "source": "百度热榜",
-    "tagline": "普通 · 热搜指数 6571730",
-    "highlightComment": {
-      "author": "弗洛伊德·峰",
-      "text": "健全人坐轮椅？啊，不要轻易相信来自陌生人的善意，包括他们的轮椅，都是好事儿啊",
-      "emoji": "💡"
+      "text": "英伟达暴跌1万亿，这是好事。成功永远是属于少数人的，你大概率是多数人，看到少数人亏钱，心里是不是平衡多了？多听少说话，闷声发大财。",
+      "emoji": "🔒"
     }
   },
   {
@@ -167,134 +222,116 @@
     "snippet": "近日，有人反映四川都江堰市紫坪铺水库出现大量埃及塘鲺，并称这些鱼可能是被人放生到水库中，总量约1万斤。当地农业农村局回应：已处理。",
     "detailParagraphs": [
       "近日，有人反映四川都江堰市紫坪铺水库出现大量埃及塘鲺，并称这些鱼可能是被人放生到水库中，总量约1万斤。当地农业农村局回应：已处理。",
-      "热搜指数：6471318",
+      "热搜指数：6561353",
       "标签：普通"
     ],
     "category": "政治",
-    "likes": 6471,
+    "likes": 6561,
     "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/47c9be0731f09e5a61d2dc41c102838d?x-bce-process=image/resize,m_fill,w_256,h_170",
     "isBreaking": false,
-    "publishedAt": "2025/11/26 00:38",
+    "publishedAt": "2025/11/26 02:00",
     "source": "百度热榜",
-    "tagline": "普通 · 热搜指数 6471318",
+    "tagline": "普通 · 热搜指数 6561353",
+    "link": "https://www.baidu.com/s?wd=%E9%83%BD%E6%B1%9F%E5%A0%B0%E4%B8%80%E6%B0%B4%E5%BA%93%E8%A2%AB%E6%94%BE%E7%94%9F%E5%A4%A7%E9%87%8F%E5%9F%83%E5%8F%8A%E5%A1%98%E9%B2%BA&sa=fyb_news&rsv_dl=fyb_news",
     "highlightComment": {
       "author": "弗洛伊德·峰",
-      "text": "放生埃及塘鲺？啊，选择大于努力，但这次选择错了，都是好事儿啊",
+      "text": "水库被放生万斤埃及塘鲺，这是好事。大人说话小孩少插嘴，这放生的人估计觉得自己在积德，其实是在给生态系统上强度，选择大于努力，鱼都选错了地方。",
       "emoji": "🎯"
     }
   },
   {
     "id": 16,
-    "title": "华为非凡大师手表售价24999元",
-    "subtitle": "11月25日，华为WATCH ULTIMATE DESIGN 非凡大师紫金款正式发布，搭载HarmonyOS 6系统，支持北斗卫星语音消息、eSIM...",
-    "snippet": "11月25日，华为WATCH ULTIMATE DESIGN 非凡大师紫金款正式发布，搭载HarmonyOS 6系统，支持北斗卫星语音消息、eSIM...",
-    "detailParagraphs": [
-      "11月25日，华为WATCH ULTIMATE DESIGN 非凡大师紫金款正式发布，搭载HarmonyOS 6系统，支持北斗卫星语音消息、eSIM...",
-      "热搜指数：6371244",
-      "标签：热"
-    ],
-    "category": "本质",
-    "likes": 6371,
-    "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/1b8d96c098919ff669a226cada7adbf7?x-bce-process=image/resize,m_fill,w_256,h_170",
-    "isBreaking": true,
-    "publishedAt": "2025/11/26 00:38",
-    "source": "百度热榜",
-    "tagline": "热 · 热搜指数 6371244",
-    "highlightComment": {
-      "author": "弗洛伊德·峰",
-      "text": "24999元手表？啊，成功永远是属于少数人的，你大概率是多数人，但这次买得起的是少数人，都是好事儿啊",
-      "emoji": "🔥"
-    }
-  },
-  {
-    "id": 17,
     "title": "男装店用烟灰缸做吊牌后退货减少",
     "subtitle": "11月24日，江苏常州一男装店主为减少“蹭穿退货”，将烟灰缸、鼠标垫、袜子等物品作为服装吊牌，破坏后无法退货。新措施使退货率明显下降，但单件利润减少...",
     "snippet": "11月24日，江苏常州一男装店主为减少“蹭穿退货”，将烟灰缸、鼠标垫、袜子等物品作为服装吊牌，破坏后无法退货。新措施使退货率明显下降，但单件利润减少...",
     "detailParagraphs": [
       "11月24日，江苏常州一男装店主为减少“蹭穿退货”，将烟灰缸、鼠标垫、袜子等物品作为服装吊牌，破坏后无法退货。新措施使退货率明显下降，但单件利润减少...",
-      "热搜指数：6282605",
+      "热搜指数：6473689",
       "标签：普通"
     ],
-    "category": "科技",
-    "likes": 6282,
+    "category": "本质",
+    "likes": 6473,
     "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/7522b77d46d4caf29ed6ee8dfff5423c?x-bce-process=image/resize,m_fill,w_256,h_170",
     "isBreaking": false,
-    "publishedAt": "2025/11/26 00:38",
+    "publishedAt": "2025/11/26 02:00",
     "source": "百度热榜",
-    "tagline": "普通 · 热搜指数 6282605",
+    "tagline": "普通 · 热搜指数 6473689",
+    "link": "https://www.baidu.com/s?wd=%E7%94%B7%E8%A3%85%E5%BA%97%E7%94%A8%E7%83%9F%E7%81%B0%E7%BC%B8%E5%81%9A%E5%90%8A%E7%89%8C%E5%90%8E%E9%80%80%E8%B4%A7%E5%87%8F%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news",
     "highlightComment": {
       "author": "弗洛伊德·峰",
-      "text": "烟灰缸做吊牌？啊，选择大于努力，这波操作我给满分，都是好事儿啊",
-      "emoji": "😵‍💫"
+      "text": "男装店用烟灰缸做吊牌防退货，这是好事。以前舒服是留给死人的，现在舒服是留给不退货的人的。不要轻易相信来自陌生人的善意，店家这招是T0级别的理解。",
+      "emoji": "🔥"
     }
   },
   {
-    "id": 18,
-    "title": "女子掉入5米深冰河多亏穿了厚羽绒服",
-    "subtitle": "暂无描述",
-    "snippet": "暂无描述",
-    "detailParagraphs": [
-      "暂无详细内容",
-      "热搜指数：6184428",
-      "标签：普通"
-    ],
-    "category": "金融",
-    "likes": 6184,
-    "imageUrl": "https://fyb-1.cdn.bcebos.com/fyb/de6163834f53ca92c1273fff98ac9078.jpeg?x-bce-process=image/resize,m_fill,w_256,h_170",
-    "isBreaking": false,
-    "publishedAt": "2025/11/26 00:38",
-    "source": "百度热榜",
-    "tagline": "普通 · 热搜指数 6184428",
-    "highlightComment": {
-      "author": "弗洛伊德·峰",
-      "text": "掉冰河多亏羽绒服？啊，选择大于努力，这次选择穿厚点是对的，都是好事儿啊",
-      "emoji": "😺"
-    }
-  },
-  {
-    "id": 19,
+    "id": 17,
     "title": "六旬老人做14个单杠大回环突发心梗",
     "subtitle": "暂无描述",
     "snippet": "暂无描述",
     "detailParagraphs": [
       "暂无详细内容",
-      "热搜指数：6078439",
+      "热搜指数：6383076",
+      "标签：普通"
+    ],
+    "category": "科技",
+    "likes": 6383,
+    "imageUrl": "https://fyb-1.cdn.bcebos.com/fyb/de6163834f53ca92c1273fff98ac9078.jpeg?x-bce-process=image/resize,m_fill,w_256,h_170",
+    "isBreaking": false,
+    "publishedAt": "2025/11/26 02:00",
+    "source": "百度热榜",
+    "tagline": "普通 · 热搜指数 6383076",
+    "link": "https://www.baidu.com/s?wd=%E5%85%AD%E6%97%AC%E8%80%81%E4%BA%BA%E5%81%9A14%E4%B8%AA%E5%8D%95%E6%9D%A0%E5%A4%A7%E5%9B%9E%E7%8E%AF%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97&sa=fyb_news&rsv_dl=fyb_news",
+    "highlightComment": {
+      "author": "弗洛伊德·峰",
+      "text": "六旬老人硬拉14个大回环心梗，这是好事。说明大爷不服老，选择大于努力，但有时候努力过头了就是送命。舒服是留给死人的，大爷这差点就舒服了。",
+      "emoji": "😵‍💫"
+    }
+  },
+  {
+    "id": 19,
+    "title": "萧山机场回应健全印度人坐轮椅",
+    "subtitle": "近日，浙江杭州多位网友发帖称在杭州萧山国际机场，遇健全印度人使用轮椅，这一行为被指浪费公共资源。萧山机场回应称：并非机场轮椅。",
+    "snippet": "近日，浙江杭州多位网友发帖称在杭州萧山国际机场，遇健全印度人使用轮椅，这一行为被指浪费公共资源。萧山机场回应称：并非机场轮椅。",
+    "detailParagraphs": [
+      "近日，浙江杭州多位网友发帖称在杭州萧山国际机场，遇健全印度人使用轮椅，这一行为被指浪费公共资源。萧山机场回应称：并非机场轮椅。",
+      "热搜指数：6191700",
       "标签：普通"
     ],
     "category": "政治",
-    "likes": 6078,
-    "imageUrl": "https://fyb-1.cdn.bcebos.com/fyb/de6163834f53ca92c1273fff98ac9078.jpeg?x-bce-process=image/resize,m_fill,w_256,h_170",
+    "likes": 6191,
+    "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/479714e53e5e0113dd9506688a9b1089?x-bce-process=image/resize,m_fill,w_256,h_170",
     "isBreaking": false,
-    "publishedAt": "2025/11/26 00:38",
+    "publishedAt": "2025/11/26 02:00",
     "source": "百度热榜",
-    "tagline": "普通 · 热搜指数 6078439",
+    "tagline": "普通 · 热搜指数 6191700",
+    "link": "https://www.baidu.com/s?wd=%E8%90%A7%E5%B1%B1%E6%9C%BA%E5%9C%BA%E5%9B%9E%E5%BA%94%E5%81%A5%E5%85%A8%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%9D%90%E8%BD%AE%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news",
     "highlightComment": {
       "author": "弗洛伊德·峰",
-      "text": "六旬老人做14个单杠心梗？啊，舒服是留给死人的，但这次不舒服也快死了，都是好事儿啊",
+      "text": "健全印度人在萧山机场坐轮椅？这是好事。既然是挂壁，那就得贯彻到底，能坐着绝不站着，这波是版本T0理解，多听少说话，学着点。",
       "emoji": "🤖"
     }
   },
   {
     "id": 20,
-    "title": "日本民众再集会要求高市撤回发言",
-    "subtitle": "当地时间25日傍晚，数百名日本民众在日本首相官邸前，自发举行抗议集会，要求日本首相高市早苗撤回涉台错误言论。",
-    "snippet": "当地时间25日傍晚，数百名日本民众在日本首相官邸前，自发举行抗议集会，要求日本首相高市早苗撤回涉台错误言论。",
+    "title": "乒乓球比赛运动员为什么要摸球台",
+    "subtitle": "在观看精彩的乒乓球比赛时，有许多乒乓球运动员在发球前，都喜欢在台桌上摸一下，尤其是喜欢在靠近球网的地方擦一擦，其实，运动员很多时候摸球台并不是为了安...",
+    "snippet": "在观看精彩的乒乓球比赛时，有许多乒乓球运动员在发球前，都喜欢在台桌上摸一下，尤其是喜欢在靠近球网的地方擦一擦，其实，运动员很多时候摸球台并不是为了安...",
     "detailParagraphs": [
-      "当地时间25日傍晚，数百名日本民众在日本首相官邸前，自发举行抗议集会，要求日本首相高市早苗撤回涉台错误言论。",
-      "热搜指数：5988557",
+      "在观看精彩的乒乓球比赛时，有许多乒乓球运动员在发球前，都喜欢在台桌上摸一下，尤其是喜欢在靠近球网的地方擦一擦，其实，运动员很多时候摸球台并不是为了安...",
+      "热搜指数：6095701",
       "标签：普通"
     ],
     "category": "本质",
-    "likes": 5988,
-    "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/29ca49dc65b8b1b08eff2a89d4f322e0?x-bce-process=image/resize,m_fill,w_256,h_170",
+    "likes": 6095,
+    "imageUrl": "https://fyb-2.cdn.bcebos.com/hotboard_image/cdf94dc4aa458b87043d4a90b3316db5?x-bce-process=image/resize,m_fill,w_256,h_170",
     "isBreaking": false,
-    "publishedAt": "2025/11/26 00:38",
+    "publishedAt": "2025/11/26 02:00",
     "source": "百度热榜",
-    "tagline": "普通 · 热搜指数 5988557",
+    "tagline": "普通 · 热搜指数 6095701",
+    "link": "https://www.baidu.com/s?wd=%E4%B9%92%E4%B9%93%E7%90%83%E6%AF%94%E8%B5%9B%E8%BF%90%E5%8A%A8%E5%91%98%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%91%B8%E7%90%83%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news",
     "highlightComment": {
       "author": "弗洛伊德·峰",
-      "text": "日本民众集会？啊，多听少说话，但这次得说话，都是好事儿啊",
+      "text": "运动员比赛摸球台，这是好事。不仅在于摸，关键在于摸这一下的手感。成功永远是属于少数人的，你大概率是多数人，摸不到球台只能摸摸鱼。",
       "emoji": "🐛"
     }
   }

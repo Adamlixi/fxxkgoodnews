@@ -127,7 +127,6 @@ export default function MemeNewsPage() {
             key={item.id}
             news={item}
             onLike={handleLike}
-            href={`/news/${item.id}`}
           />
         ))}
       </div>

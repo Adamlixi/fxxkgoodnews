@@ -11,6 +11,7 @@ export interface MemeNewsItem {
   publishedAt: string;
   source: string;
   tagline: string;
+  link?: string;
   highlightComment: {
     author: string;
     text: string;

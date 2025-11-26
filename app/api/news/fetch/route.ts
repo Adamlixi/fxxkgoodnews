@@ -70,6 +70,7 @@ function transformBaiduNewsToMemeNews(baiduNews: any, index: number): any {
     }),
     source: '百度热榜',
     tagline: `${baiduNews.tag || '普通'} · 热搜指数 ${baiduNews.hot_index || 0}`,
+    link: baiduNews.link || '',
     highlightComment: {
       author: author,
       text: commentTexts[index % commentTexts.length],

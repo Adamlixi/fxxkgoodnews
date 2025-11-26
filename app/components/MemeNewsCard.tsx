@@ -1,19 +1,16 @@
 'use client';
 
 import Image from 'next/image';
-import { useRouter } from 'next/navigation';
 import { useState, type KeyboardEvent, type MouseEvent } from 'react';
 import type { MemeNewsItem } from '../data/memeNews';
 
 interface MemeNewsCardProps {
   news: MemeNewsItem;
   onLike: (id: number) => void;
-  href: string;
 }
 
-export default function MemeNewsCard({ news, onLike, href }: MemeNewsCardProps) {
+export default function MemeNewsCard({ news, onLike }: MemeNewsCardProps) {
   const [isLiked, setIsLiked] = useState(false);
-  const router = useRouter();
 
   const handleLike = (event: MouseEvent<HTMLButtonElement>) => {
     event.stopPropagation();
@@ -32,7 +29,10 @@ export default function MemeNewsCard({ news, onLike, href }: MemeNewsCardProps) 
   };
 
   const goToDetail = () => {
-    router.push(href);
+    // 如果有外部链接，在新标签页打开
+    if (news.link) {
+      window.open(news.link, '_blank', 'noopener,noreferrer');
+    }
   };
 
   const handleKeyDown = (event: KeyboardEvent<HTMLElement>) => {

@@ -106,16 +106,16 @@ export default function MemeNewsPage() {
           ⚠️ 警告：都是好事 ⚠️
         </div>
         <div className="text-lg text-yellow-300 font-bold">
-          ⚠️ 警告：AI 生成评论 ⚠️
+          
         </div>
         <div className="text-lg text-yellow-300 font-bold">
-          ⚠️ 警告：AI 生成评论 ⚠️
+          
         </div>
         <div className="text-lg text-yellow-300 font-bold">
-          ⚠️ 警告：AI 生成评论 ⚠️
+          
         </div>
         <div className="text-lg text-yellow-300 font-bold">
-          ⚠️ 警告：AI 生成评论 ⚠️
+          
         </div>
       </header>
 
